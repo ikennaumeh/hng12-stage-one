@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q1bWA7xwWcT4PMODxYGLyG6IzsLhDYHUImyxNhczcy8=",
+  "Source": "HNGStageOne.API",
+  "BasePath": "_content/HNGStageOne.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

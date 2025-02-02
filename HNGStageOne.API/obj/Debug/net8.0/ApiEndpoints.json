@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "HNGStageOne.API.Controllers.NumberController",
+    "Method": "GetNumberClassification",
+    "RelativePath": "api/classify-number",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
