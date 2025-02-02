@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HNGStageOne.API", "HNGStageOne.API\HNGStageOne.API.csproj", "{3267C321-B16E-40C0-BB5F-603677491381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3267C321-B16E-40C0-BB5F-603677491381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3267C321-B16E-40C0-BB5F-603677491381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3267C321-B16E-40C0-BB5F-603677491381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3267C321-B16E-40C0-BB5F-603677491381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18572AA7-76DD-4E38-963E-5AC5A627A6CE}
+	EndGlobalSection
+EndGlobal
